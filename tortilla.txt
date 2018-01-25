@@ -3,3 +3,4 @@ Cebolla
 Chorizo
 Tomate frito
 Sal
+Pimiento
