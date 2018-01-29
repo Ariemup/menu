@@ -4,3 +4,10 @@ Chorizo
 Tomate frito
 Sal
 Pimiento
+
+***Precio***
+huevos 3
+cebolla 1
+chorizo 3
+
+2.20 medio Pincho
